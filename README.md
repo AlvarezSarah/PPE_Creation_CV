@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="http://hits.dwyl.io/alvarezsarah/alvarezsarah/projetKarimAndCo_PPE_Solo.svg">
+<img src="http://hits.dwyl.io/alvarezsarah/alvarezsarah/PPE_Creation_CV.svg">
 <img src="https://img.shields.io/github/contributors/alvarezsarah/PPE_Creation_CV">
 <img src="https://img.shields.io/github/repo-size/alvarezsarah/PPE_Creation_CV">
 </p>
