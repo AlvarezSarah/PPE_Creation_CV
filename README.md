@@ -8,7 +8,13 @@
 <img src="https://img.shields.io/github/repo-size/pawel956/projetKarimAndCo_ConnexionInscription">
 </p>
 
-### ProjetKarimAndCo - composant 1 : connexion et inscription
+### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres :
++ La première :
+	+ Inscription et 
+	+ Connection
++ La deuxième :
+	+ Accés l'édition et la création de son CV
+	+ Utilisation d'une base de donnée afin d'enregistrer les différent cv sui un profile.
 ---
 
 #### Introduction
