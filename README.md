@@ -27,17 +27,17 @@ Avec ce composant, on peut :
 	 + Vérification si la date de naissance est réelle (via un serveur de date)
  + Se connecter
 
+--- 
+
 #### Documentation
-Javadoc : [cliquez-ici](https://pawel956.github.io/projetKarimAndCo_ConnexionInscription/)  
-Document utilisateur : [cliquez-ici](https://docs.google.com/document/d/1nW1IItZ4RfnRoahEaQirap2QfmtTX6tPgkBLDmhopvI/edit?usp=sharing)
++ Javadoc : [cliquez-ici](https://pawel956.github.io/projetKarimAndCo_ConnexionInscription/)  
++ Tuto d'utilisation : [ici]()
 
 #### Dépendances utilisés
 <img src="https://img.shields.io/badge/commons--net-3.6-success">
 <img src="https://img.shields.io/badge/mysql--connector--java-5.1.48-success">
 
 #### Informations divers
-Le panneau qui contient le formulaire de connexion :  PanneauFormConnexion  
-Le panneau qui contient le formulaire d'inscription :  PanneauFormInscription
 
 Pour se connecter à la base de données avec la classe BDD :
 ```java
