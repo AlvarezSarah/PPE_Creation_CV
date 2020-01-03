@@ -12,7 +12,8 @@
 ### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
 
 + La première :
-	+ Inscription et 
+	+ Inscription 
+	et 
 	+ Connection
 + La deuxième :
 	+ Accés l'édition et la création de son CV
