@@ -32,7 +32,7 @@ Avec ce composant, on peut :
 --- 
 
 #### Documentation
-+ Javadoc : [ici](https://AlvarezSarah.github.io/PPE_Creation_CV/)  
++ Javadoc : [ici](https://alvarezsarah.github.io/PPE_Creation_CV/)  
 + Tuto d'utilisation : [ici]()
 
 #### Dépendances utilisés
