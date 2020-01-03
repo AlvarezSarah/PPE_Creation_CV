@@ -4,9 +4,9 @@
 
 <p align="center">
 
-<img src="http://hits.dwyl.io/pawel956/pawel956/projetKarimAndCo_ConnexionInscription.svg">
-<img src="https://img.shields.io/github/contributors/pawel956/projetKarimAndCo_ConnexionInscription">
-<img src="https://img.shields.io/github/repo-size/pawel956/projetKarimAndCo_ConnexionInscription">
+<img src="http://hits.dwyl.io/alvarezsarah/alvarezsarah/projetKarimAndCo_PPE_Solo.svg">
+<img src="https://img.shields.io/github/contributors/alvarezsarah/projetKarimAndCo_PPE_Solo">
+<img src="https://img.shields.io/github/repo-size/alvarezsarah/projetKarimAndCo_PPE_Solo">
 </p>
 
 ### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
