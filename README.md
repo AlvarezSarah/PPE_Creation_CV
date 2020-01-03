@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/github/contributors/pawel956/projetKarimAndCo_ConnexionInscription">
 <img src="https://img.shields.io/github/repo-size/pawel956/projetKarimAndCo_ConnexionInscription">
 </p>
-<p align="center">
+
 ### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
-</p>
+
 + La première :
 	+ Inscription et 
 	+ Connection
