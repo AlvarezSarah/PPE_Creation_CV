@@ -13,7 +13,7 @@
 
 + La première :
 	+ Inscription 
-	et 
+	  et 
 	+ Connection
 + La deuxième :
 	+ Accés l'édition et la création de son CV
