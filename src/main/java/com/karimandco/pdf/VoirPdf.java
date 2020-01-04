@@ -43,7 +43,6 @@ public class VoirPdf extends javax.swing.JPanel {
     private void initComponents() {
 
         appercu = new javax.swing.JButton();
-        jLabel1 = new javax.swing.JLabel();
 
         appercu.setText("Voir le pdf");
         appercu.addActionListener(new java.awt.event.ActionListener() {
@@ -52,27 +51,21 @@ public class VoirPdf extends javax.swing.JPanel {
             }
         });
 
-        jLabel1.setText("Ici vous pouvez affichez le pdf que vous avez créer");
-
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(this);
         this.setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addGap(19, 19, 19)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(appercu, javax.swing.GroupLayout.PREFERRED_SIZE, 229, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 301, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(32, Short.MAX_VALUE))
+                .addGap(17, 17, 17)
+                .addComponent(appercu, javax.swing.GroupLayout.PREFERRED_SIZE, 229, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(14, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addContainerGap(20, Short.MAX_VALUE)
-                .addComponent(jLabel1)
-                .addGap(18, 18, 18)
+            .addGroup(layout.createSequentialGroup()
+                .addGap(17, 17, 17)
                 .addComponent(appercu)
-                .addGap(26, 26, 26))
+                .addContainerGap(15, Short.MAX_VALUE))
         );
     }// </editor-fold>//GEN-END:initComponents
 
@@ -131,6 +124,5 @@ public class VoirPdf extends javax.swing.JPanel {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton appercu;
-    private javax.swing.JLabel jLabel1;
     // End of variables declaration//GEN-END:variables
 }
