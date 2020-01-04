@@ -3,12 +3,21 @@
 </p>
 
 <p align="center">
-<img src="http://hits.dwyl.io/pawel956/pawel956/projetKarimAndCo_ConnexionInscription.svg">
-<img src="https://img.shields.io/github/contributors/pawel956/projetKarimAndCo_ConnexionInscription">
-<img src="https://img.shields.io/github/repo-size/pawel956/projetKarimAndCo_ConnexionInscription">
+
+<img src="http://hits.dwyl.io/alvarezsarah/alvarezsarah/PPE_Creation_CV.svg">
+<img src="https://img.shields.io/github/contributors/alvarezsarah/PPE_Creation_CV">
+<img src="https://img.shields.io/github/repo-size/alvarezsarah/PPE_Creation_CV">
 </p>
 
-### ProjetKarimAndCo - composant 1 : connexion et inscription
+### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
+
++ La première :
+	+ Inscription 
+	  et 
+	+ Connection
++ La deuxième :
+	+ Accés l'édition et la création de son CV
+	+ Utilisation d'une base de donnée afin d'enregistrer les différent cv sui un profile.
 ---
 
 #### Introduction
@@ -21,17 +30,17 @@ Avec ce composant, on peut :
 	 + Vérification si la date de naissance est réelle (via un serveur de date)
  + Se connecter
 
+--- 
+
 #### Documentation
-Javadoc : [cliquez-ici](https://pawel956.github.io/projetKarimAndCo_ConnexionInscription/)  
-Document utilisateur : [cliquez-ici](https://docs.google.com/document/d/1nW1IItZ4RfnRoahEaQirap2QfmtTX6tPgkBLDmhopvI/edit?usp=sharing)
++ Javadoc : [ici](https://alvarezsarah.github.io/PPE_Creation_CV/)  
++ Tuto d'utilisation : [ici]()
 
 #### Dépendances utilisés
 <img src="https://img.shields.io/badge/commons--net-3.6-success">
 <img src="https://img.shields.io/badge/mysql--connector--java-5.1.48-success">
 
 #### Informations divers
-Le panneau qui contient le formulaire de connexion :  PanneauFormConnexion  
-Le panneau qui contient le formulaire d'inscription :  PanneauFormInscription
 
 Pour se connecter à la base de données avec la classe BDD :
 ```java
