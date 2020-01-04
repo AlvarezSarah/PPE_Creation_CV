@@ -21,7 +21,7 @@ Logiciel de création de **Curriculum Vitae**, ce projet contient plusieurs fonc
 	+ Accés l'édition et la création de son CV
 	+ Utilisation d'une base de donnée afin d'enregistrer les différent cv d'un profile.
 
--- 
+---
 
 #### Documentation
 + Javadoc : [ici](https://alvarezsarah.github.io/PPE_Creation_CV/)  
