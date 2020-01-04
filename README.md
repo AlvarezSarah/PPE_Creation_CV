@@ -2,11 +2,11 @@
 <img src="https://image.flaticon.com/icons/svg/311/311334.svg" width="130">
 
 
-
+<p align="center">
 <img src="http://hits.dwyl.io/alvarezsarah/alvarezsarah/PPE_Creation_CV.svg">
 <img src="https://img.shields.io/github/contributors/alvarezsarah/PPE_Creation_CV">
 <img src="https://img.shields.io/github/repo-size/alvarezsarah/PPE_Creation_CV">
-
+<p>
 
 ### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
 ---
