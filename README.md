@@ -38,7 +38,7 @@ Avec ce composant, on peut :
 --- 
 
 #### Documentation
-+ Javadoc : [ici](https://alvarezsarah.github.io/PPE_Creation_CV/)  
++ Javadoc : ce trouve dans src -> index.html
 + Tuto d'utilisation : [ici](https://docs.google.com/document/d/1on2TyfWRNnNtBA2q7An1OkUc9deOPRRCrf83_6wnQ18/edit?usp=sharing)
 
 #### Dépendances utilisés
