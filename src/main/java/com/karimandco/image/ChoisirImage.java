@@ -66,7 +66,7 @@ public class ChoisirImage extends javax.swing.JPanel {
         jLabelSuccess = new javax.swing.JLabel();
         jLabelSelect = new javax.swing.JLabel();
 
-        jButtonSelectFile.setBackground(new java.awt.Color(255, 153, 0));
+        jButtonSelectFile.setBackground(new java.awt.Color(102, 102, 102));
         jButtonSelectFile.setForeground(new java.awt.Color(255, 255, 255));
         jButtonSelectFile.setText("CHOISIR UNE IMAGE");
         jButtonSelectFile.addMouseListener(new java.awt.event.MouseAdapter() {
