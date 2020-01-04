@@ -4,6 +4,7 @@
 <img src="https://image.flaticon.com/icons/svg/311/311334.svg" width="150">
 </p>
 ### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
+
 <p align="center">
 
 <img src="http://hits.dwyl.io/alvarezsarah/alvarezsarah/PPE_Creation_CV.svg">
@@ -51,6 +52,3 @@ Avec ce composant, on peut :
 <img src="https://img.shields.io/badge/itextpdf-5.5.13.1.jar-sucess">
 <p>
 
-
-
-#### Informations divers
