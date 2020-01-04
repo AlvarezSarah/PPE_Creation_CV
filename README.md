@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://image.flaticon.com/icons/svg/311/311334.svg" width="150">
 </p>
+
 ### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
 
 <p align="center">
