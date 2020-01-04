@@ -12,6 +12,7 @@
 ### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
 ---
 #### Principe 
+
 Logiciel de création de **Curriculum Vitae**, ce projet contient plusieurs fonctions :
 + La première :
 	+ Inscription 
@@ -24,10 +25,12 @@ Logiciel de création de **Curriculum Vitae**, ce projet contient plusieurs fonc
 ---
 
 #### Documentation
+
 + Javadoc : [ici](https://alvarezsarah.github.io/PPE_Creation_CV/)  
 + Tuto d'utilisation : [ici](https://docs.google.com/document/d/1on2TyfWRNnNtBA2q7An1OkUc9deOPRRCrf83_6wnQ18/edit?usp=sharing)
 
 #### Dépendances utilisés
+
 <p align="center">
 <img src="https://img.shields.io/badge/commons--net-3.6-success">
 <img src="https://img.shields.io/badge/mysql--connector--java-5.1.48-success">
