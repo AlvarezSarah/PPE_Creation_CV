@@ -4,8 +4,6 @@
 <img src="https://image.flaticon.com/icons/svg/311/311334.svg" width="150">
 </p>
 
-### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
-
 <p align="center">
 
 <img src="http://hits.dwyl.io/alvarezsarah/alvarezsarah/PPE_Creation_CV.svg">
@@ -14,11 +12,11 @@
 <p>
 </p>
 
+
+### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
 ---
 #### Principe 
-### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
-
-Logiciel de création de **Curriculum Vitae**, ce projet contient plusieurs fonctions :
+C'est un logiciel de création de **Curriculum Vitae**, ce projet contient plusieurs fonctions :
 + La première :
 	+ Inscription 
 	  et 
