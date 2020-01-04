@@ -30,7 +30,7 @@ Logiciel de création de **Curriculum Vitae**, ce projet contient plusieurs fonc
 #### Dépendances utilisés
 <img src="https://img.shields.io/badge/commons--net-3.6-success">
 <img src="https://img.shields.io/badge/mysql--connector--java-5.1.48-success">
-<img src="https://img.shields.io/badge/itextpdf-535313.1.jar-sucess">
+<img src="https://img.shields.io/badge/itextpdf-5.5.13.1.jar-sucess">
 
 #### Informations divers
 
