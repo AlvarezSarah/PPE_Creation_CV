@@ -1,5 +1,5 @@
 
-<img src="https://image.flaticon.com/icons/svg/311/311334.svg" width="130">
+<img src="https://www.flaticon.com/authors/alfredo-hernandez" width="130">
 
 
 <p align="center">
