@@ -1,7 +1,4 @@
 
-<img src="https://www.flaticon.com/authors/alfredo-hernandez" width="130">
-
-
 <p align="center">
 <img src="http://hits.dwyl.io/alvarezsarah/alvarezsarah/PPE_Creation_CV.svg">
 <img src="https://img.shields.io/github/contributors/alvarezsarah/PPE_Creation_CV">
