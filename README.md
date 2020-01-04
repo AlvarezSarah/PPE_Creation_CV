@@ -25,8 +25,6 @@ C'est un logiciel de création de **Curriculum Vitae**, ce projet contient plusi
 	+ Accés l'édition et la création de son CV
 	+ Utilisation d'une base de donnée afin d'enregistrer les différent cv sui un profile.
 ---
-
-#### Documentation
 #### Introduction
 Dans le cadre de création d'un logiciel de gestion de **curriculum vitae**, ce projet contient un composant permettant l'inscription et la connexion au logiciel.
 
