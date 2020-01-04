@@ -12,23 +12,16 @@
 ### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
 ---
 #### Principe 
-Dans le cadre de création d'un logiciel de gestion de **curriculum vitae**, ce projet contient plusieurs fonction.
+Logiciel de création de **Curriculum Vitae**, ce projet contient plusieurs fonctions :
 + La première :
 	+ Inscription 
 	  et 
 	+ Connection
 + La deuxième :
 	+ Accés l'édition et la création de son CV
-	+ Utilisation d'une base de donnée afin d'enregistrer les différent cv sui un profile.
+	+ Utilisation d'une base de donnée afin d'enregistrer les différent cv d'un profile.
 
-#### Fonctionnalités
-Avec ce composant, on peut :
- + S'inscrire
-	 + Vérification du format des informations saisies dans les champs
-	 + Vérification si la date de naissance est réelle (via un serveur de date)
- + Se connecter
-
---- 
+-- 
 
 #### Documentation
 + Javadoc : [ici](https://alvarezsarah.github.io/PPE_Creation_CV/)  
@@ -37,6 +30,7 @@ Avec ce composant, on peut :
 #### Dépendances utilisés
 <img src="https://img.shields.io/badge/commons--net-3.6-success">
 <img src="https://img.shields.io/badge/mysql--connector--java-5.1.48-success">
+<img src="https://img.shields.io/badge/itextpdf-535313.1.jar-sucess">
 
 #### Informations divers
 
