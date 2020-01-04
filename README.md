@@ -28,10 +28,11 @@ Logiciel de création de **Curriculum Vitae**, ce projet contient plusieurs fonc
 + Tuto d'utilisation : [ici](https://docs.google.com/document/d/1on2TyfWRNnNtBA2q7An1OkUc9deOPRRCrf83_6wnQ18/edit?usp=sharing)
 
 #### Dépendances utilisés
+<p align="center">
 <img src="https://img.shields.io/badge/commons--net-3.6-success">
 <img src="https://img.shields.io/badge/mysql--connector--java-5.1.48-success">
 <img src="https://img.shields.io/badge/itextpdf-5.5.13.1.jar-sucess">
-
+<p>
 #### Informations divers
 
 Pour se connecter à la base de données avec la classe BDD :
