@@ -15,6 +15,9 @@
 
 ### ProjetKarimAndCo - Création d'un Curriculum Vitae comportant deux fenètres
 ---
+#### Introduction
+Dans le cadre de création d'un logiciel de gestion de **curriculum vitae**, ce projet contient un composant permettant l'inscription et la connexion au logiciel.
+
 #### Principe 
 C'est un logiciel de création de **Curriculum Vitae**, ce projet contient plusieurs fonctions :
 + La première :
@@ -24,17 +27,6 @@ C'est un logiciel de création de **Curriculum Vitae**, ce projet contient plusi
 + La deuxième :
 	+ Accés l'édition et la création de son CV
 	+ Utilisation d'une base de donnée afin d'enregistrer les différent cv sui un profile.
----
-#### Introduction
-Dans le cadre de création d'un logiciel de gestion de **curriculum vitae**, ce projet contient un composant permettant l'inscription et la connexion au logiciel.
-
-#### Fonctionnalités
-Avec ce composant, on peut :
- + S'inscrire
-	 + Vérification du format des informations saisies dans les champs
-	 + Vérification si la date de naissance est réelle (via un serveur de date)
- + Se connecter
-
 --- 
 
 #### Documentation
